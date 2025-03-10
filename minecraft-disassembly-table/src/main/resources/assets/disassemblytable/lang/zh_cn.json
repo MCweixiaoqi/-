@@ -1,0 +1,6 @@
+{
+  "block.disassemblytable.disassembly_table": "拆解台",
+  "container.disassemblytable.disassembly_table": "拆解台",
+  "tooltip.disassemblytable.disassembly_table": "立即将物品拆解为其合成组件并提取附魔效果。",
+  "tooltip.disassemblytable.durability_info": "损坏的物品会返还更少的材料：耐久度低于2/3 = 减少1种材料，低于1/3 = 减少2种材料。"
+}

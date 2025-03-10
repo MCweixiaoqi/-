@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "disassemblytable",
+  "version": "${version}",
+  "name": "Disassembly Table",
+  "description": "A mod that adds a Disassembly Table to Minecraft. The table can disassemble any item with a crafting recipe back into its components.",
+  "authors": ["Example Author"],
+  "contact": {
+    "homepage": "https://example.com/",
+    "sources": "https://github.com/example/disassemblytable"
+  },
+  "license": "MIT",
+  "icon": "assets/disassemblytable/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.disassemblytable.fabric.DisassemblyTableModFabric"],
+    "client": ["com.example.disassemblytable.fabric.DisassemblyTableModFabricClient"]
+  },
+  "mixins": ["disassemblytable.mixins.json"],
+  "depends": {
+    "fabric": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
+

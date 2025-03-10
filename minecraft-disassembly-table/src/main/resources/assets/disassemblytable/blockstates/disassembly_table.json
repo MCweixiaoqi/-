@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=north": { "model": "disassemblytable:block/disassembly_table" },
+    "facing=east": { "model": "disassemblytable:block/disassembly_table", "y": 90 },
+    "facing=south": { "model": "disassemblytable:block/disassembly_table", "y": 180 },
+    "facing=west": { "model": "disassemblytable:block/disassembly_table", "y": 270 }
+  }
+}
+

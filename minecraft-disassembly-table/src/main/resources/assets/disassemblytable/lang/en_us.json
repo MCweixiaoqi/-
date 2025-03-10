@@ -1,0 +1,6 @@
+{
+  "block.disassemblytable.disassembly_table": "Disassembly Table",
+  "container.disassemblytable.disassembly_table": "Disassembly Table",
+  "tooltip.disassemblytable.disassembly_table": "Instantly disassembles items into their crafting components and extracts enchantments.",
+  "tooltip.disassemblytable.durability_info": "Damaged items return fewer materials: <2/3 durability = -1 material, <1/3 durability = -2 materials."
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="disassemblytable"
+version="1.0.0"
+displayName="Disassembly Table"
+authors="Example Author"
+description='''
+A mod that adds a Disassembly Table to Minecraft.
+The table can disassemble any item with a crafting recipe back into its components.
+'''
+
+[[dependencies.disassemblytable]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.disassemblytable]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+

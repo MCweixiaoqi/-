@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "disassemblytable:block/disassembly_table_side",
+    "down": "disassemblytable:block/disassembly_table_bottom",
+    "up": "disassemblytable:block/disassembly_table_top",
+    "north": "disassemblytable:block/disassembly_table_front",
+    "east": "disassemblytable:block/disassembly_table_side",
+    "south": "disassemblytable:block/disassembly_table_side",
+    "west": "disassemblytable:block/disassembly_table_side"
+  }
+}
+
