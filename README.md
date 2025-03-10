@@ -1,5 +1,5 @@
 # -
-我的世界mod
+我的世界拆解台mod 1.20.1
 # 拆解台 Mod (Disassembly Table)
 
 一个可以拆解 Minecraft 中任何物品（包括其他 Mod 物品）的模组，能够返还合成材料和提取附魔效果到附魔书上。
